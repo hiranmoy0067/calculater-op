@@ -1,5 +1,5 @@
 # calculater-op
 Hi
 
-#DEMO Calculator
+# DEMO Calculator
 https://soo-more.github.io/calculater-op/
